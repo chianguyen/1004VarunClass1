@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473492661605",
+    "firebase_url": "https://varunclass1-3b57a.firebaseio.com",
+    "project_id": "varunclass1-3b57a",
+    "storage_bucket": "varunclass1-3b57a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473492661605:android:29ce7768c883e88c99ad8c",
+        "android_client_info": {
+          "package_name": "org.mp.a1004varunclass1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473492661605-684snabt0cr4dec5o4hkotgcveagf5jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.mp.a1004varunclass1",
+            "certificate_hash": "cb3b82612432a7527ea461dff51aba52b195ce9c"
+          }
+        },
+        {
+          "client_id": "473492661605-nkrqkt295ueg5rqpb2e23sbvv32lihec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPxeSh0T-zKajq7zzJrSqQLhwogn8SNLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473492661605-nkrqkt295ueg5rqpb2e23sbvv32lihec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

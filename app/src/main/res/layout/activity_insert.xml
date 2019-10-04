@@ -1,0 +1,38 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:layout_marginBottom="20dp"
+        android:textSize="32dp"
+        android:textColor="#000"
+        android:text="Insert new record"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edit_text_name"
+        android:hint="Employee Name"
+        style="@style/edit_text_style"/>
+
+    <EditText
+        android:id="@+id/edit_text_email"
+        android:hint="Employee Email"
+        style="@style/edit_text_style"/>
+
+    <EditText
+        android:id="@+id/edit_text_phone"
+        android:hint="Employee Phone"
+        style="@style/edit_text_style"/>
+
+    <Button
+        android:id="@+id/btn_insert"
+        android:text="Insert Employee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
